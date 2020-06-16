@@ -3372,7 +3372,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class ResumeComponent {
     constructor() {
-        this.src = "https://jackjasper.github.io/Hire-JackJasper/docs/assets/resume.pdf";
+        this.src = "https://jackjasper.github.io/Hire-JackJasper/assets/resume.pdf";
     }
 }
 ResumeComponent.ɵfac = function ResumeComponent_Factory(t) { return new (t || ResumeComponent)(); };
