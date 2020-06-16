@@ -3312,7 +3312,7 @@ __webpack_require__.r(__webpack_exports__);
 
 class CoverLetterComponent {
     constructor() {
-        this.src = "https://jackjasper.github.io/Hire-JackJasper/assets/coverletter.pdf";
+        this.src = "https://jackjasper.github.io/Hire-JackJasper/docs/assets/coverletter.pdf";
     }
 }
 CoverLetterComponent.ɵfac = function CoverLetterComponent_Factory(t) { return new (t || CoverLetterComponent)(); };
