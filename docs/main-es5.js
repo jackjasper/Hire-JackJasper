@@ -4247,7 +4247,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     var CoverLetterComponent = function CoverLetterComponent() {
       _classCallCheck(this, CoverLetterComponent);
 
-      this.src = "https://jackjasper.github.io/Hire-JackJasper/assets/coverletter.pdf";
+      this.src = "https://jackjasper.github.io/Hire-JackJasper/docs/assets/coverletter.pdf";
     };
 
     CoverLetterComponent.ɵfac = function CoverLetterComponent_Factory(t) {
@@ -4369,7 +4369,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     var ResumeComponent = function ResumeComponent() {
       _classCallCheck(this, ResumeComponent);
 
-      this.src = "https://jackjasper.github.io/Hire-JackJasper/assets/resume.pdf";
+      this.src = "https://jackjasper.github.io/Hire-JackJasper/docs/assets/resume.pdf";
     };
 
     ResumeComponent.ɵfac = function ResumeComponent_Factory(t) {
